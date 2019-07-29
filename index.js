@@ -39,3 +39,4 @@ var removeFirstKitten = () => {
 }
 
 // console.log(prependKitten('Samantha'));
+console.log(appendKitten('Theodore'));
