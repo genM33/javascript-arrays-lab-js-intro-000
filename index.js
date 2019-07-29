@@ -19,7 +19,7 @@ function destructivelyRemoveFirstKitten() {
 
 /* function appendKitten(nameOfNewKitten) {
   return kittens.concat(nameOfNewKitten);
-} 
+}
 */
 
 function appendKitten(nameOfNewKitten) {
