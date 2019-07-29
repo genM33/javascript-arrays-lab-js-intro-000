@@ -33,4 +33,3 @@ var removeLastKitten = () => {
 var removeFirstKitten = () => {
   return kittens.slice(1);
 }
-console.log(prependKitten('Martin'));
